@@ -32,6 +32,11 @@ ___
 
 * **Wang L**, Jiang G, Li D, Liu H. Standardizing adverse drug event reporting data. Journal of biomedical semantics. 2014 Dec;5(1):1-3.
 
+
+## Selected Peer-Reviewed Publications
+___
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=QVp3dZIAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>
 {% endif %}
