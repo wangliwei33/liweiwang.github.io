@@ -209,19 +209,19 @@ ___
 ## Other/Miscellaneous
 ___
 
-Huang M, Wen A, He H, Wang L, Liu S, Wang Y, Zong N, Yu Y, Prigge JE, Costello BA, Shah ND. Midwest rural‐urban disparities in use of patient online services for COVID‐19. The Journal of Rural Health. 2022 Sep;38(4):908-15.
+* Huang M, Wen A, He H, **Wang L**, Liu S, Wang Y, Zong N, Yu Y, Prigge JE, Costello BA, Shah ND. Midwest rural‐urban disparities in use of patient online services for COVID‐19. The Journal of Rural Health. 2022 Sep;38(4):908-15.
 
-Huang M, Khurana A, Mastorakos G, Wen A, He H, Wang L, Liu S, Wang Y, Zong N, Prigge J, Costello B. Patient portal messaging for asynchronous virtual care during the COVID-19 pandemic: retrospective analysis. JMIR Human Factors. 2022 May 5;9(2):e35187.
+* Huang M, Khurana A, Mastorakos G, Wen A, He H, **Wang L**, Liu S, Wang Y, Zong N, Prigge J, Costello B. Patient portal messaging for asynchronous virtual care during the COVID-19 pandemic: retrospective analysis. JMIR Human Factors. 2022 May 5;9(2):e35187.
 
-Huang M, Wen A, He H, Wang L, Liu S, Wang Y, Zong N, Yu Y, Prigge JE, Costello BA, Shah ND. Midwest rural‐urban disparities in use of patient online services for COVID‐19. The Journal of Rural Health. 2022 Sep;38(4):908-15.
+* Huang M, Wen A, He H, **Wang L**, Liu S, Wang Y, Zong N, Yu Y, Prigge JE, Costello BA, Shah ND. Midwest rural‐urban disparities in use of patient online services for COVID‐19. The Journal of Rural Health. 2022 Sep;38(4):908-15.
 
-Shrivastava S, Cohen-Shelly M, Attia ZI, Rosenbaum AN, Wang L, Giudicessi JR, Redfield M, Bailey K, Lopez-Jimenez F, Lin G, Kapa S. Artificial intelligence-enabled electrocardiography to screen patients with dilated cardiomyopathy. The American Journal of Cardiology. 2021 Sep 15;155:121-7.
+* Shrivastava S, Cohen-Shelly M, Attia ZI, Rosenbaum AN, **Wang L**, Giudicessi JR, Redfield M, Bailey K, Lopez-Jimenez F, Lin G, Kapa S. Artificial intelligence-enabled electrocardiography to screen patients with dilated cardiomyopathy. The American Journal of Cardiology. 2021 Sep 15;155:121-7.
 
-Hathcock MA, Kirt C, Ryu E, Bublitz J, Gupta R, Wang L, Thibodeau SN, Larson NL, Cicek MS, Cerhan JR, Olson JE. Characteristics associated with recruitment and re-contact in Mayo Clinic Biobank. Frontiers in public health. 2020 Feb 4;8:9.
+* Hathcock MA, Kirt C, Ryu E, Bublitz J, Gupta R, **Wang L**, Thibodeau SN, Larson NL, Cicek MS, Cerhan JR, Olson JE. Characteristics associated with recruitment and re-contact in Mayo Clinic Biobank. Frontiers in public health. 2020 Feb 4;8:9.
 
-Ji K, Zhang M, Chu Q, Gan Y, Ren H, Zhang L, Wang L, Li X, Wang W. The role of p-STAT3 as a prognostic and clinicopathological marker in colorectal cancer: a systematic review and meta-analysis. PLoS One. 2016 Aug 9;11(8):e0160125.
+* Ji K, Zhang M, Chu Q, Gan Y, Ren H, Zhang L, **Wang L**, Li X, Wang W. The role of p-STAT3 as a prognostic and clinicopathological marker in colorectal cancer: a systematic review and meta-analysis. PLoS One. 2016 Aug 9;11(8):e0160125.
 
-Xu B, Xu B, Zheng WY, Ge HY, Wang LW, Song ZS, He B. Transvaginal cholecystectomy vs conventional laparoscopic cholecystectomy for gallbladder disease: a meta-analysis. World Journal of Gastroenterology: WJG. 2015 May 5;21(17):5393.
+* Xu B, Xu B, Zheng WY, Ge HY, **Wang L**, Song ZS, He B. Transvaginal cholecystectomy vs conventional laparoscopic cholecystectomy for gallbladder disease: a meta-analysis. World Journal of Gastroenterology: WJG. 2015 May 5;21(17):5393.
 
 
 {% if author.googlescholar %}
