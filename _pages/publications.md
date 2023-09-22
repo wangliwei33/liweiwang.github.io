@@ -35,7 +35,7 @@ ___
 
 ## Cancer informatics
 ___
-
+* **Wang L**, Fu S, Wen A, Ruan X, He H, Liu S, Moon S, Mai M, Riaz IB, Wang N, Yang P. Assessment of electronic health record for cancer research and patient care through a scoping review of cancer natural language processing. JCO Clinical Cancer Informatics. 2022 Aug;6:e2200006.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=QVp3dZIAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>
