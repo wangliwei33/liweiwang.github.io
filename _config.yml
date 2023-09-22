@@ -11,9 +11,9 @@ title                    : "Liwei Wang / Associate Professor"
 title_separator          : "-"
 name                     : &name "Liwei Wang"
 description              : &description "Associate professor and medical informatician at McWilliams School of Biomedical Informatics of UTHealth "
-url                      : https://liweiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wangliwei33.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wangliwei33/liweiwang.github.io"
+repository               : "wangliwei33/wangliwei33.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
