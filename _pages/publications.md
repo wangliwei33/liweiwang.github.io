@@ -33,7 +33,7 @@ ___
 * **Wang L**, Jiang G, Li D, Liu H. Standardizing adverse drug event reporting data. Journal of biomedical semantics. 2014 Dec;5(1):1-3.
 
 
-## Selected Peer-Reviewed Publications
+## Cancer informatics
 ___
 
 
