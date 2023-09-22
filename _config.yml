@@ -85,7 +85,7 @@ author:
   bio              : "Associate profess at UTHealth"
   location         : "Houston, Texas"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QVp3dZIAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
